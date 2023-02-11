@@ -1,5 +1,5 @@
-[personal website](https://2lag.day)  
-[group website](https://kus.ooo)
+[personal site](https://2lag.day)  
+[group site](https://kus.ooo)
 
 
 - currently working on: psych.vip 
@@ -9,5 +9,5 @@
 ```
 - currently learning: [cle](https://cppinstitute.org/cle-c-certified-entry-level-programmer-certification), [go](https://go.dev/)
 - looking 4 collab on: anything
-- reach me: 
+- reach me: "links" cmd on personal site^
 - fun(?) fact: cars are sick
