@@ -1,16 +1,13 @@
-### Hi there 👋
+[personal website](https://2lag.day)  
+[group website](https://kus.ooo)
 
-<!--
-**2lag/2lag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- currently working on: psych.vip 
+```
+( <!DOCTYPE html> || document.getElementById("css") ) && 
+    ( bool c_plus_plus || c = malloc( i * sizeof(int) ) || asm DB "Assembly",0 ) )
+```
+- currently learning: [cle](https://cppinstitute.org/cle-c-certified-entry-level-programmer-certification), [go](https://go.dev/)
+- looking 4 collab on: anything
+- reach me: 
+- fun(?) fact: cars are sick
