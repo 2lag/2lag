@@ -2,7 +2,7 @@
 [group site](https://kus.ooo)
 
 
-- currently working on: psych
+- currently working on: web projects 4 friends & psych
 ```
 ( <!DOCTYPE html> || document.getElementById("css") ) && 
     ( bool c_plus_plus || c = malloc( i * sizeof(int) ) || asm DB "Assembly",0 ) )
