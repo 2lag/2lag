@@ -7,7 +7,7 @@
 ( <!DOCTYPE html> || document.getElementById("css") ) && 
     ( bool c_plus_plus || c = malloc( i * sizeof(int) ) || asm DB "Assembly",0 ) )
 ```
-- currently learning: [cle](https://cppinstitute.org/cle-c-certified-entry-level-programmer-certification), [go](https://go.dev/)
+- currently learning: [working towards cle](https://cppinstitute.org/cle-c-certified-entry-level-programmer-certification)
 - looking 4 collab on: anything
 - reach me: "links" cmd on personal site^
 - fun(?) fact: cars are sick
