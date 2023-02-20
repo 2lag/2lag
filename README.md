@@ -2,7 +2,7 @@
 [group site](https://kus.ooo)
 
 
-- currently working on: web projects for friends, psych, and CGUI
+- currently working on: [web projects for friends](https://almightyhuey.github.io), psych, and [CGUI](https://github.com/2lag/CGUI)
 ```
 ( <!DOCTYPE html> || document.getElementById("css") ) && 
     ( bool c_plus_plus || c = malloc( i * sizeof(int) ) || asm DB "Assembly",0 ) )
