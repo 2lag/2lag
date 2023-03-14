@@ -10,4 +10,3 @@
 - currently: [working towards cle](https://cppinstitute.org/cle-c-certified-entry-level-programmer-certification)
 - looking 4 collab on: anything
 - reach me: "links" cmd on personal site^
-- fun(?) fact: cars are sick
