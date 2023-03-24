@@ -5,7 +5,7 @@
 - currently working on: [CGUI](https://github.com/2lag/CGUI), [my last web project](https://almightyhuey.github.io) for a friend
 ```
 ( <!DOCTYPE html> || document.getElementById("css") ) && 
-    ( bool c_plus_plus || c = malloc( i * sizeof(int) ) || asm DB "Assembly",0 ) )
+    ( bool c_plus_plus || c = malloc( i * sizeof(int) ) ) )
 ```
 - currently: [working towards cle](https://cppinstitute.org/cle-c-certified-entry-level-programmer-certification)
 - looking 4 collab on: anything
