@@ -7,6 +7,6 @@
 ( <!DOCTYPE html> || document.getElementById("css") ) && 
     ( bool c_plus_plus || c = malloc( i * sizeof(int) ) ) )
 ```
-- currently: [working towards cle](https://cppinstitute.org/cle-c-certified-entry-level-programmer-certification)
+- currently: [working towards cpe](https://cppinstitute.org/cpe-c-certified-entry-level-programmer-certification-exam-syllabus)
 - looking 4 collab on: anything
 - reach me: "links" cmd on personal site^
