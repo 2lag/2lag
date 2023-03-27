@@ -2,7 +2,7 @@
 [group site](https://kus.ooo)
 
 
-- currently working on: [CGUI](https://github.com/2lag/CGUI), [my last web project](https://almightyhuey.github.io) for a friend, and some other private stuff (counting commits here: 92)
+- currently working on: [CGUI](https://github.com/2lag/CGUI), [my last web project](https://almightyhuey.github.io)s for a friend, and some other private stuff (counting commits here: 92)
 ```
 ( <!DOCTYPE html> || document.getElementById("css") ) && 
     ( bool c_plus_plus || c = malloc( i * sizeof(int) ) ) )
