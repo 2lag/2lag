@@ -3,7 +3,7 @@
 
 
 - currently working on: [CGUI](https://github.com/2lag/CGUI), [one of my last 2 web project](https://almightyhuey.github.io)s for a friend, and some other private stuff   
-counting priv commits here: |1|0|0|0|0|1|0|0|
+counting priv commits here: [|1|0|0|0|0|1|1|0|](40+94=134)
 ```
 ( <!DOCTYPE html> || document.getElementById("css") ) && 
     ( bool c_plus_plus || c = malloc( i * sizeof(int) ) ) )
