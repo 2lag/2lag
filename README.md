@@ -1,5 +1,5 @@
 <h4 align="center"><a href="https://2lag.day" target="_blank">mine</a>  <-- my websites -->  <a href="https://kus.ooo" target="_blank">ours</a></h4>
-
+may the 4th be with you haha very funny   
 ###
 
 <div align="center">
