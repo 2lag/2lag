@@ -1,12 +1,6 @@
 <h5 align="center"><a href="https://2lag.day" target="_blank">mine</a>  <-- my websites -->  <a href="https://kus.ooo" target="_blank">ours</a></h5>
   
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2lag&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=ocean_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=2lag&locale=en&mode=daily&theme=ocean_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
 
 <h5 align="center">stuff i use/have used</h5>
 
