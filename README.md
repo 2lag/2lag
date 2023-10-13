@@ -1,4 +1,4 @@
-<h5 align="center"><a href="https://2lag.day" target="_blank">mine</a>  <-- my websites -->  <a href="https://kus.ooo" target="_blank">ours</a></h5>
+<h5 align="center"><a href="https://kuso.day" target="_blank">mine</a>  <-- my websites -->  <a href="https://kus.ooo" target="_blank">ours</a></h5>
   
 ###
 
