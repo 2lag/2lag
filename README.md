@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center"><--(<a href="https://kuso.day" target="_blank">me</a>)-- sites --(<a href="https://kus.ooo" target="_blank">us</a>)--></h3>
+<h3 align="center">&lt;--(<a href="https://kuso.day" target="_blank">me</a>)-- sites --(<a href="https://kus.ooo" target="_blank">us</a>)--&gt;</h3>
 
 ###
 
