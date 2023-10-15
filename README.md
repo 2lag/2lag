@@ -58,8 +58,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jquery/CCCCFF" height="40" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/CCCCFF" height="40" alt="linux logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/markdown/CCCCFF" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/CCCCFF" height="40" alt="nodejs logo"  />
